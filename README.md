@@ -1,10 +1,10 @@
 ## Hi, I'm Purity👋
-##Computer Science student at Ashesi University passionate about building impactful tech solutions.
-##I'm exploring AI/ML, Web Development, and Software Engineering.
-##I love working on projects that solve real-world challenges, from education to sustainability.
-##I'm currently working on on a cloud computing capstone project and I can't wait to learn more about the field
+Computer Science student at Ashesi University passionate about building impactful tech solutions.
+I'm exploring AI/ML, Web Development, and Software Engineering.
+I love working on projects that solve real-world challenges, from education to sustainability.
+I'm currently working on on a cloud computing capstone project and I can't wait to learn more about the field
 
-##I'm also interested in cybersecurity and hoping to complete my cisco certification, join a hckathon and see where it leads me.
+I'm also interested in cybersecurity and hoping to complete my cisco certification, join a hckathon and see where it leads me.
 
 
 ## 🌐 My Socials:
